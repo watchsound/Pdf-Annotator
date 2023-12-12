@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pdf-Annotator</string>
+    <string name="annotation_highlight">Highlight</string>
+    <string name="annotation_underline_single">Underline</string>
+    <string name="annotation_underline_double">Double Underline</string>
+    <string name="annotation_underline_squiggly">Squiggly</string>
+    <string name="annotation_underline_dash">Dash Underline</string>
+    <string name="annotation_strikeout">Strike Out</string>
+    <string name="annotation_has_notes">Note Marker</string>
+</resources>
